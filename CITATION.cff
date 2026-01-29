@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: Alla
+    given-names: Mohana Venkata Phaneendra Reddy
+title: "NGS, Omics & Viral Genomics Analysis Portfolio"
+version: 1.1.0
+date-released: 2026-01-29
+url: "https://github.com/mohanaalla-freddy/ngs-omics-viral-genomics-portfolio"

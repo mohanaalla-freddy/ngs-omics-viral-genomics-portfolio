@@ -1,0 +1,30 @@
+name: bioinformatics-env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - biopython
+  - pysam
+  - cyvcf2
+  - samtools
+  - bcftools
+  - bedtools
+  - fastqc
+  - multiqc
+  - hisat2
+  - star
+  - bowtie2
+  - subread  # featureCounts
+  - snakemake
+  - r-base
+  - r-tidyverse
+  - bioconductor-deseq2
+  - bioconductor-edger
+  - bioconductor-genomicranges
